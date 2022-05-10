@@ -1,0 +1,17 @@
+{
+  "name": "sso-passort",
+  "version": "1.0.0",
+  "description": "SSO using passport js package",
+  "main": "app.js",
+  "repository": "https://github.com/shashidev091/sso-passort.git",
+  "author": "Shashi Bhagat <skujur871@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.7",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16",
+    "passport": "^0.5.2",
+    "passport-google-oauth20": "^2.0.0"
+  }
+}
